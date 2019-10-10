@@ -1,0 +1,55 @@
+/* ===== MAIN.CSS goes here ===== */
+
+body{
+    background-color: black;
+    color: rgba(255,255,255,0.8);
+}
+
+#landing{
+    height: 60vh;
+    background-image: url('bgimage2.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    z-index: -1;
+}
+
+#mainText{
+    margin-top: 10vh;
+    color: white;
+}
+
+#aboutMe{
+    color: lightblue;
+}
+
+#intro{
+    margin-top: 50px;
+}
+
+
+
+#work{
+    background-color: rgb(61,61,61);
+}
+
+#p1{
+    height: 350px;
+}
+.block {
+    background-color: #141414;
+  
+    
+  }
+  
+  .block-header {
+    /* Typography */
+    color: lightblue;
+    font-family: Georgia, Times, "Times New Roman", serif;
+    font-weight: bold;
+    text-align: center;
+  }
+  .port-image {
+    margin: 10px auto;
+  }
